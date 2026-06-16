@@ -19,6 +19,7 @@ venv*/
 __pycache__/
 .pytest_cache/
 .cache/
+.venv/
 
 # BciPy files and directories
 *.pdf
