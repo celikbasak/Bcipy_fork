@@ -42,3 +42,5 @@ data/
 bids/
 !bcipy/simulator/data
 
+bcipy/static/images/target_distractor
+
